@@ -1,0 +1,37 @@
+
+# The Reliability and Validity of Time Use Co-presence data 
+
+Social capital is one of the most important concept of social sciences. It is one of the rare concept that easily crosses disciplines. It is indistinctly used by sociologist, economist, demographer, political scientist, and so on. Despite its wide use, the concept of social capital often relies on very different acception and definition. It can refers for example … 
+
+Social capital sometimes includes to social contacts and togetherness. Even thought Putnam does not gives a precise definition of social capital, in his magnus opus, Bowling Alone, he does explicitly integrates a measurement of social contacts. What he calls … 
+
+This aim of this paper is to extent further the social contacts dimension of social capital. Social contacts are not easily measurable and data are hard to collect. We argue in this paper that the time use co-presence data offers a formidable source of knowledge that have not been fully used. 
+This paper focuses on the epistemology of such data, classically the reliability and the validity. 
+
+## Epistemological measures 
+The concept reliability and the validity are at the heart of classical epistemology. Reliability answers the question : Are the results consistent after several replication of the experiment ? Validity on the other side refers to the question : does our instrument measure what we ought to measure ? Are we properly measuring the phenomenon we want to measure ? 
+These two questions make sense of course only if we answered the following one : what is it that we are measuring ?  
+The last question is not always obvious and in fact poses serious problems to social scientists. We must use concepts in order to get a grasp of the social world but often the question arises : does it really exist ? Think of how sociologist of the family are struggling with the concept of family. Some of them advocate to ban the word, some think than even the word is a bit fuzzy it is still a useful concept and some uses but with no particular definition and let the respondents freely define their own concept of the family. 
+
+So what is the problem that we have with the time use with co-presence data ? The co-presence data describe one simple thing: how much, when and how do people spent time with others or alone. Beside this apparent simplicity two important questions arise : what is it mean for individuals to spent time with others and what does it mean sociologically. What are we exactly measuring when we measure time spent or shared with others ? 
+ 
+In this article we want to answer this three questions : what are we measuring and do we want to measure (sociological), is it measuring what we want to measure (validity) and is it a consistent measure (reliability)? 
+ 
+The strategy we have adopted here is the following. The first question has two dimensions. One theoretical and one empirical. The empirical question is what are we measuring. The most appropriate method for answering this question in our view is qualitative interviews. In asking individuals about their time with others or alone, we will be able to answer the theoretical question : what is the sociological relevance of time with others. Because our aim in the end is the build a sociological theory of social contacts via time with others. Qualitative interviews also enable us to answers the second question about validity. In asking individuals about their time with others we able then to verify is time use diaries are measuring the correct concept and theory that *we want to measure*. The last question can be answered directly by quantitative methods on time use dataset. 
+
+The most intuitive plan to reach our goal is the following. 
+
+We will begin by answering the sociological question, what are we measuring ? 
+Once we have a grasp of what it means to individuals, we can begin building a sociological theory. Then we can ask the direct question of validity and reliability. 
+
+## What are we measuring 
+Our qualitative strategy here is twofold. We used Family Network questionnaire with a time use extension. The Fam is a quantitative questionnaire aiming to measure cohesion, conflict and support in contemporary families. It is also aiming to measure “the family”. It is based on the central idea: the family should be freely define by individuals. It first ask respondents to list “important” person for them… 
+
+We ask respondent to fill a time use questionnaire focused on the co-presence. 
+
+
+
+
+
+
+
