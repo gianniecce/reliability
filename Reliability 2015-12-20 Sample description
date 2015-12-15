@@ -1,0 +1,40 @@
+
+# Description of the sample 
+
+The number of idmen (couple id) is apparently 10675 and the number of respondents is 16242 (idind). 
+4581 individual filled 1 diary and 11661 filled 2. 
+
+11126 filled two day diaries. 
+
+Sampling distribution of all days 
+
+1 dimanche 4092  0.2281954   17932
+2 jeudi    1886  0.1051751   17932
+3 lundi    2086  0.1163284   17932
+4 mardi    1958  0.1091903   17932
+5 mercredi 1992  0.1110863   17932
+6 samedi   3946  0.2200535   17932
+7 vendredi 1972  0.1099710   17932
+
+dbinom(1, 5, 0.2) * dbinom(1, 2, 0.5)  
+
+
+
+# Measures 
+
+## Missings 
+1. Individuals who have a lots of presence missing  
+  - Is it related to the couple missing ? 
+2. Couples who have a lots of missing 
+3. Difference in missing by couple 
+
+
+## Mismatch 
+
+
+  
+  
+
+
+
+
